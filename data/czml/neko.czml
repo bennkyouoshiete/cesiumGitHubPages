@@ -96,7 +96,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "ニホンジカ",
         "description": "<p class=\"date\">2014.8.2 12:50</p>",
         "billboard": {
             "scaleByDistance": {
@@ -154,7 +154,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "ニホンジカ"
         },
         "polyline": {
             "width": 1,
