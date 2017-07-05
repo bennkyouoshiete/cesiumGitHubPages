@@ -7,7 +7,7 @@
     {
         "id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "富士山山頂",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -34,9 +34,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.65632777778,
-                35.481038888889,
-                1800
+                138.727778,
+                35.360556,
+                3776 
             ]
         },
         "label": {
@@ -65,17 +65,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "富士山山頂"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.65632777778,
-                    35.481038888889,
-                    1800,
-                    138.65632777778,
-                    35.481038888889,
+                    138.727778,
+                    35.360556,
+                    3776, 
+                    138.727778,
+                    35.360556, 
                     0
                 ]
             },
