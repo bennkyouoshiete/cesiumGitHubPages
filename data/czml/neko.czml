@@ -96,7 +96,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ニホンジカ",
+        "name": "河口湖",
         "description": "<p class=\"date\">2014.8.2 12:50</p>",
         "billboard": {
             "scaleByDistance": {
@@ -123,9 +123,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.73666666667,
-                35.503333333333,
-                1800
+                138.755685,
+                35.517785,
+                830
             ]
         },
         "label": {
@@ -154,17 +154,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ニホンジカ"
+            "text": "河口湖"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.73666666667,
-                    35.503333333333,
-                    1800,
-                    138.73666666667,
-                    35.503333333333,
+                    138.755685,
+                    35.517785,
+                    830,
+                    138.755685,
+                    35.517785,
                     0
                 ]
             },
@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "山中湖",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -212,9 +212,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.6074636,
-                35.4197767,
-                1800
+                138.874131,
+                35.417263,
+                980
             ]
         },
         "label": {
@@ -243,18 +243,18 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "山中湖"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.6074636,
-                    35.4197767,
-                    1800,
-                    138.6074636,
-                    35.4197767,
-                    0
+                    138.874131,
+                    35.417263,
+                    980,
+                    138.874131,
+                    35.417263,
+                    0    
                 ]
             },
             "material": {
