@@ -1,0 +1,452 @@
+[
+    {
+        "id": "document",
+        "name": "neko",
+        "version": "1.0"
+    },
+    {
+        "id": "neko1",
+        "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "富士山山頂",
+        "description": "<p class=\"date\">2014.7.21 09:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/syunyakikuchi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.727778,
+                35.360556,
+                5776
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "富士山山頂"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.727778,
+                    35.360556,
+                    5776, 
+                    138.727778,
+                    35.360556, 
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "neko2",
+        "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "河口湖",
+        "description": "<p class=\"date\">2014.8.2 12:50</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/syunyakikuchi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.755685,
+                35.517785,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "河口湖"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.755685,
+                    35.517785,
+                    3999,
+                    138.755685,
+                    35.517785,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "neko3",
+        "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "山中湖",
+        "description": "<p class=\"date\">2014.11.9 08:30</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/syunyakikuchi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.874131,
+                35.417263,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "山中湖"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.874131,
+                    35.417263,
+                    3999,
+                    138.874131,
+                    35.417263,
+                    0    
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "neko4",
+        "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "西湖",
+        "description": "<p class=\"date\">2014.11.22 19:20</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/syunyakikuchi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.683930,
+                35.496825,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "西湖"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.683930,
+                    35.496825,
+                    3999,
+                    138.683930,
+                    35.496825,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "neko5",
+        "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
+        "name": "本栖湖",
+        "description": "<p class=\"date\">2014.12.22 21:00</p>",
+        "billboard": {
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    15000,
+                    1,
+                    200000,
+                    0
+                ]
+            },
+            "horizontalOrigin": "CENTER",
+            "image": "https://raw.githubusercontent.com/furuhashilab/www_furuhashiab_com/gh-pages/temp/syunyakikuchi.png",
+            "scale": 0.6,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "show": "true",
+            "verticalOrigin": "BOTTOM"
+        },
+        "position": {
+            "cartographicDegrees": [
+                138.587628,
+                35.463416,
+                3999
+            ]
+        },
+        "label": {
+            "translucencyByDistance": {
+                "nearFarScalar": [
+                    10000,
+                    1,
+                    80000,
+                    0
+                ]
+            },
+            "fillColor": {
+                "rgba": [
+                    255,
+                    255,
+                    255,
+                    255
+                ]
+            },
+            "pixelOffset": {
+                "cartesian2": [
+                    0,
+                    10
+                ]
+            },
+            "font": "8pt Sans-Serif",
+            "verticalOrigin": "BOTTOM",
+            "style": "FILL",
+            "text": "本栖湖"
+        },
+        "polyline": {
+            "width": 1,
+            "positions": {
+                "cartographicDegrees": [
+                    138.587628,
+                    35.463416,
+                    3999,
+                    138.587628,
+                    35.463416,
+                    0
+                ]
+            },
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            64
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
